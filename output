@@ -1,0 +1,93 @@
+AstroRappers
+{ye=Rapper}
+Number of astronauts: 1
+
+
+SpaceShip's name: Soyuz
+Speed: 0
+Direction: FORWARD
+
+Engine's name: main engine
+Engine is running: false
+Power: 0
+
+Engine's name: turning engine
+Engine is running: false
+Power: 0
+Engine Direction: null
+
+Engine's name: stopping engine
+Engine is running: false
+Power: 0
+
+
+
+[Preparing takeoff]
+[Takeoff completed successfullly]
+
+
+SpaceShip's name: Soyuz
+Speed: 100
+Direction: FORWARD
+
+Engine's name: main engine
+Engine is running: true
+Power: 110
+
+Engine's name: turning engine
+Engine is running: false
+Power: 0
+Engine Direction: null
+
+Engine's name: stopping engine
+Engine is running: false
+Power: 0
+
+
+
+[Rotation completed successfully]
+
+
+SpaceShip's name: Soyuz
+Speed: 500
+Direction: RIGHT
+
+Engine's name: main engine
+Engine is running: true
+Power: 410
+
+Engine's name: turning engine
+Engine is running: true
+Power: 0
+Engine Direction: LEFT
+
+Engine's name: stopping engine
+Engine is running: false
+Power: 0
+
+
+
+[Slowing Down completed successfully]
+
+
+SpaceShip's name: Soyuz
+Speed: 400
+Direction: RIGHT
+
+Engine's name: main engine
+Engine is running: false
+Power: 0
+
+Engine's name: turning engine
+Engine is running: true
+Power: 0
+Engine Direction: LEFT
+
+Engine's name: stopping engine
+Engine is running: true
+Power: 1010
+
+
+
+
+Process finished with exit code 0
